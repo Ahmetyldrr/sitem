@@ -14,7 +14,6 @@ jobs:
       - run:
           command: ./manage.py test
           name: Test
-          
 
 workflows:
   main:
