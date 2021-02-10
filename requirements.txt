@@ -3,3 +3,4 @@ yfinance
 pandas
 pandas_datareader
 plotly
+gunicorn==19.7.1
